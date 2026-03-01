@@ -1,2 +1,1 @@
-# src
-Separate repository to keep scripts organized. Remember K.I.S.S. (Keep It Simple Stupid!).
+# Python and R Scripts for Systematic Review and Meta-Analysis
